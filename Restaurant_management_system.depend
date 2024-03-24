@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710949255 source:c:\izourne\est\min_projects\restaurant_management_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
